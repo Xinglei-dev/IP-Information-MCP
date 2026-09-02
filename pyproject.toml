@@ -1,0 +1,12 @@
+[project]
+name = "ip-info-mcp"
+version = "0.1.0"
+description = "MCP Server for IP geolocation queries using db-ip Lite databases"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=2.1",
+    "maxminddb>=3.1",
+    "uvicorn>=0.30",
+]

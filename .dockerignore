@@ -1,0 +1,15 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.py[cod]
+*.csv
+*.gz
+data/
+tests/
+README.md
+LICENSE
+THIRD_PARTY_NOTICES.md
+download.log
+.env
+.env.*
